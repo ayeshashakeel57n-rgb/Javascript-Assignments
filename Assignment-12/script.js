@@ -1,0 +1,5 @@
+alert("Hello world.....!")
+alert("Welcome to JS land....\nHappy coding!")
+alert("Error! Please enter a valid password")
+alert("Happy coding!\nPrevent this page from creating additional dialogs.")
+alert("Hello...! I can run JS through my web broweser's console")
